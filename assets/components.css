@@ -1,4 +1,4 @@
 .fit {
   min-height: calc(100vh - 88px);
 }
-a.Navbar_logo__26S5Y, svg.logo-icon {border: none !important; width: 50px; height: 50px;}
+a.Navbar_logo__26S5Y, svg.logo-icon, span.rounded-full {border: none !important; width: 50px; height: 50px;}
