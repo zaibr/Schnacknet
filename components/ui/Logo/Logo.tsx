@@ -1,6 +1,5 @@
 const Logo = ({ className = '', ...props }) => (
-  <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 275.01 226.26" fill="var(--secondary)" xml:space="preserve">
+  <svg>
 <g>
 	<path d="M252.72,137.57h-27.54c-6.59,0-11.98,5.58-11.98,12.41v17.22c0,6.82,5.39,12.41,11.98,12.41h27.54
 		c9.66,0,17.57-8.18,17.57-18.19v-5.66C270.29,145.75,262.39,137.57,252.72,137.57z M264.04,161.72c0,5.63-4.45,10.24-9.89,10.24
